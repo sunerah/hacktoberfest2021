@@ -1,4 +1,4 @@
-# Tic Tac Toe game with GUI
+## Tic Tac Toe game with GUI
 # using tkinter
 
 # importing all necessary libraries
